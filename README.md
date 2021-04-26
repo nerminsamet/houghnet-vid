@@ -43,7 +43,7 @@ Next, please place the data as the following. Alternatively you could also creat
 ```
 
 We used train and test images from [MEGA](https://github.com/Scalsol/mega.pytorch). You could download the same splits,
-as ImageSets [here](https://drive.google.com/drive/folders/1OrLHksrGBYPHVk5UlnmAaugGsvdAULRI?usp=sharing) 
+as ImageSets [here](https://drive.google.com/drive/folders/1OrLHksrGBYPHVk5UlnmAaugGsvdAULRI?usp=sharing).
 
 ## Evaluation and Training
 
