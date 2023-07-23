@@ -4,7 +4,7 @@ Official PyTroch implementation of HoughNet for video object detection. More det
 
 > [**HoughNet: Integrating near and long-range evidence for visual detection**](https://arxiv.org/abs/2104.06773),            
 > [Nermin Samet](https://nerminsamet.github.io/), [Samet Hicsonmez](https://giddyyupp.github.io/), [Emre Akbas](http://user.ceng.metu.edu.tr/~emre/),        
-> *Under review at TPAMI. ([arXiv pre-print](https://arxiv.org/abs/2104.06773))*          
+> *TPAMI, 2022. ([arXiv pre-print](https://arxiv.org/abs/2104.06773))*          
 
 ## Summary
 
