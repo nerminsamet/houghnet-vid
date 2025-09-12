@@ -66,9 +66,13 @@ If you find HoughNet-VID useful for your research, please cite our paper as foll
 
 BibTeX entry:
 ```
-@misc{HoughNet2021,
-      title={HoughNet: Integrating near and long-range evidence for visual detection}, 
-      author={Nermin Samet and Samet Hicsonmez and Emre Akbas},
-      year={2021}, 
+@article{samet2022houghnet,
+  title={HoughNet: Integrating near and long-range evidence for visual detection},
+  author={Samet, Nermin and Hicsonmez, Samet and Akbas, Emre},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={45},
+  number={4},
+  pages={4667--4681},
+  year={2022}
 }
 ```
